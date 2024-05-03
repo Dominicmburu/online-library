@@ -37,7 +37,7 @@ Follow these steps to get your development environment running:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/online-library-system.git
+   git clone https://github.com/Dominicmburu/online-library.git
 
 2. **Set up the Database**
     Open SQL Server Management Studio (SSMS) and connect to your database.
